@@ -1,0 +1,12 @@
+## python==3.12
+ipykernel
+streamlit>=1.18
+pandas 
+numpy 
+scikit-learn==1.7.1
+joblib==1.5.1
+PyYAML==6.0.3
+matplotlib
+seaborn
+shap==0.50.0
+
