@@ -20,7 +20,7 @@ try :
 except Exception:
     st.sidebar.write("Classifier feature names unavailable")
 
-st.header("Applicnt details")
+st.header("Applicant details")
 default = config['ui']['default_inputs']
 
 cols = st.columns(2)
